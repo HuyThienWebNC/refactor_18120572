@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/refactor_18120572/static/css/main.6a39486e.chunk.css",
+    "main.js": "/refactor_18120572/static/js/main.938dc6b5.chunk.js",
+    "main.js.map": "/refactor_18120572/static/js/main.938dc6b5.chunk.js.map",
+    "runtime-main.js": "/refactor_18120572/static/js/runtime-main.fa528ebb.js",
+    "runtime-main.js.map": "/refactor_18120572/static/js/runtime-main.fa528ebb.js.map",
+    "static/js/2.d0bb701d.chunk.js": "/refactor_18120572/static/js/2.d0bb701d.chunk.js",
+    "static/js/2.d0bb701d.chunk.js.map": "/refactor_18120572/static/js/2.d0bb701d.chunk.js.map",
+    "index.html": "/refactor_18120572/index.html",
+    "precache-manifest.6cee0938a831c9c3529f733a8fdb8246.js": "/refactor_18120572/precache-manifest.6cee0938a831c9c3529f733a8fdb8246.js",
+    "service-worker.js": "/refactor_18120572/service-worker.js",
+    "static/css/main.6a39486e.chunk.css.map": "/refactor_18120572/static/css/main.6a39486e.chunk.css.map",
+    "static/js/2.d0bb701d.chunk.js.LICENSE.txt": "/refactor_18120572/static/js/2.d0bb701d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa528ebb.js",
+    "static/js/2.d0bb701d.chunk.js",
+    "static/css/main.6a39486e.chunk.css",
+    "static/js/main.938dc6b5.chunk.js"
+  ]
+}
